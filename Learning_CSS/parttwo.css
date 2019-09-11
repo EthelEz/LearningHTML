@@ -1,0 +1,43 @@
+/* body{
+  background: url(https://img2.10bestmedia.com/Images/Photos/352450/GettyImages-913753556_54_990x660.jpg);
+*/
+.firstDiv{
+color: blue;
+}
+
+.secondDiv{
+  color: red;
+}
+
+/* NB: The diff btw an ID and a class is ID is attached to a
+single element while classes is attached to more */
+/* classes uses a hashtag */
+
+#singledout{
+  color: green;
+  text-decoration: line-through;
+}
+
+/* the * is a selector for every element on the page */
+/*
+*{
+  color: black;
+} */
+/* adjacent siblings are element that are next to each other */
+
+h3 + ul{
+  border: 4px dotted purple;
+}
+
+/* Desendents are talking of tags inside a list (perhaps) EG */
+
+li a {
+  color: red;
+}
+
+/* incer tags inside a href can be coded as : */
+
+li a[href="www.npr.org"]{
+  color: blue;
+  border: 5px solid orange;
+}

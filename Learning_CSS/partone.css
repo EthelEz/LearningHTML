@@ -1,0 +1,18 @@
+/* CSS means cascading stylesheets.They dscribe how HTML are displayed on the page */
+/* Styling involves colour, font, size, borders and many more ppties of HTML */
+/* The best appraoch is to create separate css file and link them up to HTML  */
+/* selected tag{
+  property: value;
+} */
+
+h1{
+  color: blue;
+}
+
+ol{
+  color: rgb(255, 97, 0);
+}
+
+h4{
+  color: rgba(255, 97, 0, 0.7);
+}

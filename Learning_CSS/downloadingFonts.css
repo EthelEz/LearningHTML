@@ -1,0 +1,41 @@
+p{
+  font-family: 'Chilanka', cursive;
+}
+
+.yex{
+  font-family: 'arial',serif;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Chilanka', cursive;
+}
+
+.art{
+  margin: auto;
+}
+
+td{
+  height: 200px;
+  width: 100px;
+  border: 6px solid white;
+}
+
+#one{
+  background-color: #DAD2D8
+}
+
+#two{
+  background-color: #325FA2
+}
+#tre{
+  background-color: #143642
+}
+
+#four{
+  background-color: #EC9A29
+}
+
+#fiv{
+  background-color: #A8201A
+}
